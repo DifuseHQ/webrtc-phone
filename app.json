@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "webrtc-phone",
+    "slug": "webrtc-phone",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "web": {
+	"bundler":"metro"
+    }
+  }
+}
